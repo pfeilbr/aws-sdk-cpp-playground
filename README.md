@@ -19,6 +19,6 @@ make install
 
 **Key Install File Locations**
 
-`/usr/local/lib/cmake/AWSSDK` - cmake modules
-`/usr/local/include` - headers installed
-`/usr/local/lib` - libraries installed (e.g. libaws-cpp-sdk-core.dylib)
+* `/usr/local/lib/cmake/AWSSDK` - cmake modules
+* `/usr/local/include` - headers installed
+* `/usr/local/lib` - libraries installed (e.g. libaws-cpp-sdk-core.dylib)
