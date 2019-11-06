@@ -17,6 +17,19 @@ make
 make install
 ```
 
+## build and run example
+
+```sh
+cd src/s3-example
+mkdir -p build && cd build
+cmake .. && make
+# run
+./s3-example 
+```
+
+![](https://www.evernote.com/l/AAHbKsr3KeNGBJvW9Vd8ksfJseH3wqGG7y4B/image.png)
+
+
 **Key Install File Locations**
 
 * `/usr/local/lib/cmake/AWSSDK` - cmake modules
